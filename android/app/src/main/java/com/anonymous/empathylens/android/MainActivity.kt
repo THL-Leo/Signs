@@ -1,4 +1,4 @@
-package com.empathylens
+package com.anonymous.empathylens.android
 
 import android.os.Build
 import android.os.Bundle

@@ -44,7 +44,7 @@ if (getRNMinorVersion() >= 75) {
   }
 }
 
-rootProject.name = 'empathylens'
+rootProject.name = 'empathy-lens'
 
 dependencyResolutionManagement {
   versionCatalogs {

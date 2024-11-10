@@ -1,4 +1,4 @@
-package com.empathylens
+package com.anonymous.empathylens.android
 
 import android.app.Application
 import android.content.res.Configuration
